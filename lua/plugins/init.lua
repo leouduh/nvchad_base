@@ -34,4 +34,9 @@ return {
     end
   },
 
+  {
+    "tpope/vim-fugitive",
+    lazy=false,
+  }
+
 }
