@@ -12,3 +12,6 @@ vim.o.expandtab = true
 
 --Max line width ruler
 vim.o.colorcolumn="80"
+vim.opt.foldlevel = 20
+vim.opt.foldexpr = "v:lua.vim.treesitter.foldexpr()"
+vim.opt.foldmethod = "expr"
