@@ -37,6 +37,11 @@ return {
   {
     "tpope/vim-fugitive",
     lazy=false,
-  }
+  },
+
+  -- {
+  --   "tribela/vim-transparent",
+  --   lazy=false,
+  -- }
 
 }
