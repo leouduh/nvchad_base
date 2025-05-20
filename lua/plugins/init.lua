@@ -42,7 +42,8 @@ return {
   -- {
   --   "tribela/vim-transparent",
   --   lazy=false,
-  -- }
+  -- },
+
   {
     "windwp/nvim-ts-autotag",
     event = "InsertEnter",
